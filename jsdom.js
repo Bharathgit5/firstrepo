@@ -1,0 +1,1 @@
+document.getElementById("demo").innerHTML="Adding some js: " +Date();
